@@ -1,1 +1,1 @@
-this is the new content of the common file
+New less beautiful content in common
